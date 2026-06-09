@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-tears-at-midnight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Velvet Tears At Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-tears-at-midnight/) |
+| **Get License** | [Official Music Licensing for Velvet Tears At Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-tears-at-midnight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `941f016d02ce4a77e82ddda3fd72c1630294388a5b716e597d80c7049964fda5` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
