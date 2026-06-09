@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-tears-at-midnight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Velvet Tears At Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-tears-at-midnight/) |
+| **Get License** | [License this song: Velvet Tears At Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-tears-at-midnight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight falls and we’re the only ones awake
+> I feel the shiver in the promises we make
+> Your heavy breathing pulls me deeper in the spark
+> I want to love you right here in the dark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
